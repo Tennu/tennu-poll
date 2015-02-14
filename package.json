@@ -1,0 +1,29 @@
+{
+  "name": "tennu-poll",
+  "version": "1.0.0",
+  "description": "Channel-specific polls plugin for Tennu IRC bot framework.",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tennu/tennu-poll.git"
+  },
+  "keywords": [
+    "tennu-plugin",
+    "tennu",
+    "irc",
+    "poll",
+    "vote"
+  ],
+  "author": "Ryan Scheel (Havvy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tennu/tennu-poll/issues"
+  },
+  "homepage": "https://github.com/Tennu/tennu-poll",
+  "dependencies": {
+    "r-result": "^1.0.0"
+  }
+}
